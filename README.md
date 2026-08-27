@@ -1,3 +1,5 @@
-# myproject_testing
-My new project 
-Author - Prince
+# myproject\_testing
+
+My new project
+Author - Prince Kumar
+
